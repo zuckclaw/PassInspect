@@ -348,7 +348,7 @@ def main():
     print("""
     ╔═══════════════════════════════════════════════╗
      ║              PassInspect v1.0               ║
-    ║         By : MrVoenx - AURA PROMPTING          ║
+    ║         By : Zuckclaw                         ║
      ║         Smart Password Strength Analyzer    ║
     ╚═══════════════════════════════════════════════╝
     """)
